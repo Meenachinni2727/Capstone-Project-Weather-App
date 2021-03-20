@@ -1,0 +1,807 @@
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\NewsApp\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\CGI\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\CGI\Capstone Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\Project\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+E:\xxxxxx\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\adminvm.adminvm\Desktop\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+E:\Project Final\news-app\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authentication_API.styles.css
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\New\Desktop\sss\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Weather\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.exe
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.deps.json
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.json
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.runtimeconfig.dev.json
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csprojAssemblyReference.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfoInputs.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.AssemblyInfo.cs
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CoreCompileInputs.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.Manifest.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\staticwebassets\Authentication_API.StaticWebAssets.xml
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authentication_API.styles.css
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.RazorTargetAssemblyInfo.cache
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.csproj.CopyComplete
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.dll
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.pdb
+C:\Users\New\Downloads\Authentication_API\Authentication_API\Authentication_API\obj\Debug\netcoreapp3.1\Authentication_API.genruntimeconfig.cache

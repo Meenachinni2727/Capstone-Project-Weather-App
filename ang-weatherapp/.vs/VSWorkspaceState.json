@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\dashboard",
+    "\\src\\app\\header",
+    "\\src\\app\\models",
+    "\\src\\app\\search",
+    "\\src\\app\\service",
+    "\\src\\assets",
+    "\\src\\assets\\images"
+  ],
+  "SelectedNode": "\\src\\app\\service\\authentication.service.ts",
+  "PreviewInSolutionExplorer": false
+}

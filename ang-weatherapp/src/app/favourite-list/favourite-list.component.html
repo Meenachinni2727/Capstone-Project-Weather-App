@@ -1,0 +1,30 @@
+<div class="container">
+    <h2>Users favourite list of cities</h2>
+    <br>
+    <div class="row">
+        <div class="col-sm-2">&nbsp;</div>
+        <div class="col-sm-6">
+            <h6 *ngIf='!favList'>No record exists</h6>
+            <ul *ngIf='favList' class="list-group">
+
+
+                <li class="list-group-item" *ngFor="let item of favList">
+                <a (click)="redirectToWeatherReport(item)">{{item.city}}</a>
+                    <span class="badge">
+                        <button type="button" (click)="removeFavourite(item)" class="btn btn-danger">X</button>
+                    </span></li>
+
+                <!-- <li class="list-group-item">New
+                    <span class="badge">
+                        <button type="button" class="btn btn-danger">X</button>
+                    </span></li>
+                <li class="list-group-item">Deleted <span class="badge"><button type="button"
+                            class="btn btn-danger">X</button></span></li>
+                <li class="list-group-item">Warnings <span class="badge"><button type="button"
+                            class="btn btn-danger">X</button></span></li> -->
+            </ul>
+        </div>
+    </div>
+    <br>
+    <p class="pb-20" style="height: 200px;">&nbsp;</p>
+</div>

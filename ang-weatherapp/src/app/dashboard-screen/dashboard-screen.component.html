@@ -1,0 +1,121 @@
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
+<div class="container">
+    <h2>Weather Report</h2>
+    <br><br>
+    
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="row">
+            <div class="col-3" style="text-align: right;">
+                    Search by city name
+                </div>
+               
+                <div class="col-6">
+                    <div class="ng-autocomplete">
+                        <ng-autocomplete [data]="data" [searchKeyword]="keyword" (selected)='selectEvent($event)'
+                            (inputChanged)='onChangeSearch($event)' (inputFocused)='onFocused($event)'
+                            (inputCleared)='resetSearch()' [itemTemplate]="itemTemplate"
+                            [notFoundTemplate]="notFoundTemplate">
+                        </ng-autocomplete>
+
+                        <ng-template #itemTemplate let-item>
+                            <a [innerHTML]="item.name"></a>
+                        </ng-template>
+
+                        <ng-template #notFoundTemplate let-notFound>
+                            <div [innerHTML]="notFound"></div>
+                        </ng-template>
+                    </div>
+
+                    <!-- <input type="text" class="form-control" placeholder="Search by city name"> -->
+                </div>
+                <div class="col-3">
+                    <button type="button" class="btn btn-success">Search</button>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <button type="button" class="btn btn-link" (click)="resetSearch();">Clear</button>
+
+                </div>
+            </div>
+            <p>&nbsp;</p>
+
+            <div *ngIf="weatherData">
+                <p>Current Weather: <b>{{weatherData.name}}</b>
+                    <a href="javascript:void(0);" class="btn" title="Add to favourites"  (click)="addToFavourite();">
+                        <img src="./assets/images/fav-icon.png" title="Add to favourites">
+                    </a>
+                </p>
+
+                <!-- <a href="#" class="btn btn-danger" title="Add to favourites">
+                    <span class="glyphicon glyphicon-heart"></span>
+                </a> -->
+
+                <div class="row">
+                    <div class="col-3">
+                        <p><b>Region :</b></p>
+                        <p> Country : {{weatherData.sys.country}}</p>
+                        <p> Sunrise :{{weatherData.sys.sunrise}}</p>
+                        <p> Sunset :{{weatherData.sys.sunset}}</p>
+                        <p> Time Zone : {{weatherData.timezone}}</p>
+                    </div>
+                    <div class="col-3">
+                        <p> <b>Temprature :</b></p>
+                        <p>Temp : {{weatherData?.main.temp}}</p>
+                        <p>Feels Like : {{weatherData?.main.feels_like}}</p>
+                        <p>Min Temp : {{weatherData?.main.temp_min}}</p>
+                        <p>Max temp : {{weatherData?.main.temp_max}}</p>
+                        <p>Pressure : {{weatherData?.main.pressure}}</p>
+                        <p>Humidity : {{weatherData?.main.humidity}}</p>
+                        <p>Sea Level : {{weatherData?.main.sea_level}}</p>
+                        <p>Ground Level : {{weatherData?.main.grnd_level}}</p>
+                    </div>
+                    <div class="col-3">
+                        <p> <b>Wind :</b></p>
+                        <p>Speed : {{weatherData?.wind.speed}}</p>
+                        <p>Deg : {{weatherData?.wind.deg}}</p>
+                        <p>Gust : {{weatherData?.wind.gust}}</p>
+                    </div>
+                    <div class="col-3">
+                        <p> <b>Weather :</b></p>
+                        <p>Main: {{weatherData?.weather[0]?.main}}</p>
+                        <p>Description : {{weatherData?.weather[0]?.description}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bg-light" style="height:200px;">
+    <!-- <div class="row pl-10">
+        <div class="col-1">
+            &nbsp;
+          </div>
+        <div class="col-3" style="text-align: right;">
+          Search weather report city wise
+        </div>
+        <div class="col-6">
+            <input type="text" class="form-control"  placeholder="Search by city name" >
+        </div>
+      </div> -->
+    <!-- <label>Search weather city wise</label>
+    <input type="text" placeholder="Search by city name" >
+    <div id="carouselExampleCaptions" data-ride="carousel" style="padding: 100px;">
+
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./assets/images/background.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-content">
+                    <h1> Weather </h1>
+                    <h2>
+                         Local Weather around the World
+                    </h2>
+                    <div id="register">
+                        <a class="btn btn-light btn-lg register-btn"  routerLink="/user/registration">Register for free</a>
+                    </div>
+
+                </div>
+            </div>
+
+        </div> -->
+
+</div>
